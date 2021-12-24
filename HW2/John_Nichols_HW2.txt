@@ -1,0 +1,3 @@
+John Nichols
+328001844
+Completed q2,q3,q4 but q1 I had some issues with. The code works in a general sense but the ouptut is not what I wanted it to be.
